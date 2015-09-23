@@ -1,0 +1,55 @@
+h2{
+	font-size: 16px;
+}
+.content h2{
+	font-size: 18px;
+	color: black;
+}
+.col-sm-2{
+	width: 13.667%;
+	padding-right: 0;
+}
+.container{ 
+	margin-top: 40px;
+	width: 100%;
+	height: 400px;
+}
+.hide-bullets {
+	list-style:none;
+	margin-left: -26px;
+	margin-top:20px;
+}
+#slider-thumbs{
+	max-width: 635px;
+	margin-left: 10px;
+	height: 73px;
+	margin-top: 20px;
+}
+#content {
+	min-width: 900px;
+	max-width: 80%;
+}
+#container #subcolumn{
+	width: 274px;
+}
+#main_area{
+	height: 300px;
+}
+.row{
+	height: 300px;
+	margin-right: -15px;
+	margin-left: -15px;
+}
+.carousel{
+	position: relative;
+}
+.carousel-inner{
+	position: relative;
+	width: 100%;
+	overflow: hidden;
+}
+#carousel-text{
+	height: 17px;
+	padding: 5px;
+	margin-left: 10px;
+}
