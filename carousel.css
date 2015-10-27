@@ -53,7 +53,7 @@ h2{
 	padding: 5px;
 	margin-left: 10px;
 }
-#slider-thumbs{
+.hidden-xs{
 	display: table !important;
 }
 .col-sm-2{
